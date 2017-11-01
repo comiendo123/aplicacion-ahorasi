@@ -19,10 +19,10 @@
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
-
+//esto es para lo que va a haber dentro
     <include layout="@layout/content_principal"
         android:id="@+id/include" />
-
+//este es el mensaje
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
